@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&family=Kanit:wght@300;400;500&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  font-family: 'EB Garamond', serif;
+  background-image: url(resources/img/fondos/fondo5.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.modal-content {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 700;
+}
+
+.modal-title {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 600;
+}
+
+#imagen {
+  background-image: url("resources/img/hogeras/mujer1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 40px;
+  width: 230px;
+  height: 270px;
+}
+
+#palabra-secreta {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 1em;
+  margin-top: 30px;
+
+}
+
+.letras {
+  width: 16px;
+  text-align: center;
+  border-bottom: 3px solid rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  padding: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.letrasEspacio {
+  width: 16px;
+  text-align: center;
+  color: #fff;
+  padding: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+#teclado {
+  margin-top: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.teclas button {
+  width: 24px;
+  height: 24px;
+  margin: 2px;
+  margin-bottom: 5px;
+  box-shadow: 0px 2px 8px gray;
+  border-radius: 5px;
+  border: 1px solid gray;
+  cursor: pointer;
+  font-weight: 800;
+  font-family: 'EB Garamond', serif;
+  color: black;
+  align-items: center;
+  justify-content: center;
+  transition: 0.2s;
+
+}
+
+.teclas button:disabled {
+    cursor: not-allowed;
+}
+
+.teclas button:hover {
+  transform: scale(1.1);
+}
+
+#categoria {
+  margin-top: 20px;
+  font-size: 1.2em;
+  font-weight: 900;
+  font-family: 'EB Garamond', serif;
+  color: black;
+}
+
+@media (min-width: 321px) {
+  .teclas button {
+    width: 25px;
+    height: 25px;
+  }
+  
+  #categoria {
+    font-size: 1.3em;
+  }
+}
+
+@media (min-width: 376px) {
+  .teclas button {
+    width: 30px;
+    height: 30px;
+  }
+
+  #palabra-secreta {
+    font-size: 1.3em;
+  }
+
+  .letras {
+    width: 18px;
+  }
+
+  #categoria {
+    font-size: 1.5em;
+  }
+}
+
+@media (min-width: 426px) {
+  .teclas button {
+    width: 36px;
+    height: 36px;
+  }
+
+  #palabra-secreta {
+    font-size: 1.5em;
+  }
+
+  .letras {
+    width: 20px;
+  }
+
+  #categoria {
+    font-size: 1.6em;
+  }
+}
+
+@media (min-width: 769px) {
+  .teclas button {
+    width: 68px;
+    height: 68px;
+    font-size: 2em;
+  }
+
+  #palabra-secreta {
+    font-size: 2.5em;
+  }
+
+  .letras {
+    width: 35px;
+  }
+
+  #categoria {
+    font-size: 2em;
+  }
+}
