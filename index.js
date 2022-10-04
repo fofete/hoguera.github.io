@@ -949,22 +949,22 @@ function compararListas(letra) {
 function cargarImagenHogera() {
     switch(intentos) {
         case 5:
-            document.getElementById("imagen").style.background = "url('/resources/img/hogeras/mujer2.png')";
+            document.getElementById("imagen").style.background = "url('resources/img/hogeras/mujer2.png')";
             break;
         case 4:
-            document.getElementById("imagen").style.background = "url('/resources/img/hogeras/mujer3.png')";
+            document.getElementById("imagen").style.background = "url('resources/img/hogeras/mujer3.png')";
             break;
         case 3:
-            document.getElementById("imagen").style.background = "url('/resources/img/hogeras/mujer4.png')";
+            document.getElementById("imagen").style.background = "url('resources/img/hogeras/mujer4.png')";
             break;
         case 2:
-            document.getElementById("imagen").style.background = "url('/resources/img/hogeras/mujer5.png')";
+            document.getElementById("imagen").style.background = "url('resources/img/hogeras/mujer5.png')";
             break;
         case 1:
-            document.getElementById("imagen").style.background = "url('/resources/img/hogeras/mujer6.png')";
+            document.getElementById("imagen").style.background = "url('resources/img/hogeras/mujer6.png')";
             break;
         default:
-            document.getElementById("imagen").style.background = "url('/resources/img/hogeras/mujer1.png')";
+            document.getElementById("imagen").style.background = "url('resources/img/hogeras/mujer1.png')";
             break;
     }
 }
