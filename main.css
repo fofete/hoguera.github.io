@@ -39,9 +39,10 @@ body {
   background-image: url("resources/img/hogeras/mujer1.png");
   background-repeat: no-repeat;
   background-position: center;
-  margin-top: 40px;
+  margin-top: 0px;
   width: 230px;
   height: 270px;
+  transition: 1s;
 }
 
 #palabra-secreta {
@@ -51,7 +52,6 @@ body {
   align-items: center;
   font-size: 1em;
   margin-top: 30px;
-
 }
 
 .letras {
@@ -94,8 +94,10 @@ body {
   color: black;
   align-items: center;
   justify-content: center;
-  transition: 0.2s;
+}
 
+#btnReiniciar {
+  background-color: #91cbf1;
 }
 
 .teclas button:disabled {
@@ -111,17 +113,37 @@ body {
   font-size: 1.2em;
   font-weight: 900;
   font-family: 'EB Garamond', serif;
-  color: black;
+  color: #000000;
+  background-color: rgba(136, 255, 0, 0.4);
 }
 
 @media (min-width: 321px) {
   .teclas button {
-    width: 25px;
-    height: 25px;
+    width: 22px;
+    height: 30px;
   }
   
   #categoria {
     font-size: 1.3em;
+  }
+}
+
+@media (min-width: 320px) {
+  .teclas button {
+    width: 22px;
+    height: 30px;
+  }
+
+  #palabra-secreta {
+    font-size: 1.3em;
+  }
+
+  .letras {
+    width: 18px;
+  }
+
+  #categoria {
+    font-size: 1.5em;
   }
 }
 
