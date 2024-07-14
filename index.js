@@ -242,7 +242,7 @@ const palabras = [
     },
     palabra062 = {
         nombre: "IRAN",
-        categoria: "PAISES DE ASIA 🌏"
+        categoria: "PAISES DE ORIENTE MEDIO 🌏"
     },
     palabra063 = {
         nombre: "ISRAEL",
@@ -258,11 +258,11 @@ const palabras = [
     },
     palabra066 = {
         nombre: "KAZAJISTAN",
-        categoria: "PAISES DE ASIA 🌏"
+        categoria: "PAISES DE ORIENTE MEDIO 🌏"
     },
     palabra067 = {
         nombre: "KIRGUISTAN",
-        categoria: "PAISES DE ASIA 🌏"
+        categoria: "PAISES DE ORIENTE MEDIO 🌏"
     },
     palabra068 = {
         nombre: "BIRMANIA",
@@ -306,7 +306,7 @@ const palabras = [
     },
     palabra078 = {
         nombre: "PAKISTAN",
-        categoria: "PAISES DE ASIA 🌏"
+        categoria: "PAISES DE ORIENTE MEDIO 🌏"
     },
     palabra079 = {
         nombre: "RUSIA",
