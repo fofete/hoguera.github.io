@@ -60,10 +60,10 @@ const palabras = [
         nombre: "AUSTRIA",
         categoria: "PAISES DE EUROPA 🌍"
     },
-    palabra015 = {
+    /*palabra015 = {
         nombre: "HAWAI",
         categoria: "PAISES DE EUROPA 🌍"
-    },
+    },*/
     palabra016 = {
         nombre: "UCRANIA",
         categoria: "PAISES DE EUROPA 🌍"
