@@ -1,836 +1,277 @@
 {
     "palabras": [
-      {
-        "nombre": "ESPAÑA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "REPUBLICA CHECA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "SAN MARINO",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "FRANCIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "PORTUGAL",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "REINO UNIDO",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "SUIZA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "ANDORRA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "MONTENEGRO",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "ALEMANIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "CIUDAD DEL VATICANO",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "GRECIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "AUSTRIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "UCRANIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "PAISES BAJOS",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "BELGICA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "POLONIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "HUNGRIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "CROACIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "ESLOVENIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "MOLDAVIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "SERBIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "DINAMARCA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "ALBANIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "BULGARIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "BOSNIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "MACEDONIA DEL NORTE",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "RUMANIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "ESLOVAQUIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "BIELORRUSIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "ISLANDIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "LITUANIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "LETONIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "ESTONIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "FINLANDIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "SUECIA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "NORUEGA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "LIECHTENSTEIN",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "LUXEMBURGO",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "MALTA",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "MONACO",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "CHIPRE",
-        "categoria": "PAISES DE EUROPA 🌍"
-      },
-      {
-        "nombre": "AFGANISTAN",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "ARABIA SAUDITA",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "BANGLADES",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "BUTAN",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "CATAR",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "CAMBOYA",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "CHINA",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "COREA DEL NORTE",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "COREA DEL SUR",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "EMIRATOS ARABES",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "FILIPINAS",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "PALESTINA",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "INDIA",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "INDONESIA",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "IRAK",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "IRAN",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "ISRAEL",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "JAPON",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "JORDANIA",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "KAZAJISTAN",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "KIRGUISTAN",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "BIRMANIA",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "BRUNEI",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "KUWAIT",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "LAOS",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "LIBANO",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "MALDIVAS",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "MALASIA",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "MONGOLIA",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "NEPAL",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "OMAN",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "PAKISTAN",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "RUSIA",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "SINGAPUR",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "SIRIA",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "SRI LANKA",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "TAYIKISTAN",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "TAILANDIA",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "TIMOR ORIENTAL",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "TURQUIA",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "TURKMENISTAN",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "UZBEKISTAN",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "VIETNAM",
-        "categoria": "PAISES DE ASIA 🌏"
-      },
-      {
-        "nombre": "YEMEN",
-        "categoria": "PAISES DE ORIENTE MEDIO 🌍"
-      },
-      {
-        "nombre": "ANTIGUA Y BARBUDA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "ARGENTINA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "BAHAMAS",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "BARBADOS",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "BELICE",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "BOLIVIA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "BRASIL",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "CANADA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "CHILE",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "COLOMBIA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "COSTA RICA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "CUBA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "DOMINICA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "ECUADOR",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "EL SALVADOR",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "ESTADOS UNIDOS",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "GRANADA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "GUATEMALA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "GUAYANA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "HAITI",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "HONDURAS",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "JAMAICA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "MEXICO",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "NICARAGUA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "PANAMA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "PUERTO RICO",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "PARAGUAY",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "PERU",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "REPUBLICA DOMINICANA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "SAN CRISTOBAL Y NIEVES",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "SAN VICENTE Y LAS GRANADINAS",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "SANTA LUCIA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "SURINAM",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "TRINIDAD Y TOBAGO",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "URUGUAY",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "VENEZUELA",
-        "categoria": "PAISES DE AMERICA 🌎"
-      },
-      {
-        "nombre": "PAELLA",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "AREPA",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "EMPANADA",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "PATATAS FRITAS",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "TACOS",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "ENSALADA",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "PIZZA",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "HAMBURGUESA",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "LASAÑA",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "SUSHI",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "SOPA",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "PANQUEQUE",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "TORTILLA",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "TORTILLA ESPAÑOLA",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "KEBAB",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "ESPAGUETI",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "RAMEN",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "LENTEJAS",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "PERRITO CALIENTE",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "ARROZ",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "MILANESA",
-        "categoria": "COMIDAS 🍖"
-      },
-      {
-        "nombre": "FUTBOL",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "BALONCESTO",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "TENIS",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "BEISBOL",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "VOLEIBOL",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "NATACION",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "ESGRIMA",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "EQUITACION",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "BOXEO",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "HOCKEY",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "FUTBOL AMERICANO",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "SURF",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "ESQUI",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "PARACAIDISMO",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "TENIS DE MESA",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "ATLETISMO",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "WATERPOLO",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "TIRO CON ARCO",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "BOLOS",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "RUGBY",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "GOLF",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "BADMINTON",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "CICLISMO",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "RALLY",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "MOTOCROSS",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "DARDOS",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "BILLAR",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "PETANCA",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "JUDO",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "KARATE",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "TAEKWONDO",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "SUMO",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "BALONMANO",
-        "categoria": "DEPORTES 🥇"
-      },
-      {
-        "nombre": "MANZANA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "PERA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "CEREZA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "FRESA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "ARANDANO",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "FRAMBUESA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "ZARZAMORA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "LIMON",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "MANDARINA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "NARANJA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "POMELO",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "MELON",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "SANDIA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "AGUACATE",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "COCO",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "KIWI",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "PIÑA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "PLATANO",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "MANGO",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "PAPAYA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "DATIL",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "CARAMBOLA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "CHIRIMOYA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "ALBARICOQUE",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "CIRUELA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "HIGO",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "KAKI",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "MELOCOTON",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "NECTARINA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "NISPERO",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "UVA",
-        "categoria": "FRUTAS 🍇"
-      },
-      {
-        "nombre": "NUEZ",
-        "categoria": "FRUTAS 🍇"
-      }
+        /* PAISES DE EUROPA 🌍 */
+        {"nombre": "ESPAÑA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "REPUBLICA CHECA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "SAN MARINO", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "FRANCIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "PORTUGAL", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "REINO UNIDO", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "SUIZA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "ANDORRA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "MONTENEGRO", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "ALEMANIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "CIUDAD DEL VATICANO", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "GRECIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "AUSTRIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "UCRANIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "PAISES BAJOS", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "BELGICA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "POLONIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "HUNGRIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "CROACIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "ESLOVENIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "MOLDAVIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "SERBIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "DINAMARCA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "ALBANIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "BULGARIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "BOSNIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "MACEDONIA DEL NORTE", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "RUMANIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "ESLOVAQUIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "BIELORRUSIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "ISLANDIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "LITUANIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "LETONIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "ESTONIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "FINLANDIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "SUECIA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "NORUEGA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "LIECHTENSTEIN", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "LUXEMBURGO", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "MALTA", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "MONACO", "categoria": "PAISES DE EUROPA 🌍"},
+        {"nombre": "CHIPRE", "categoria": "PAISES DE EUROPA 🌍"},
+
+        /* PAISES DE ASIA 🌏 */
+        {"nombre": "AFGANISTAN", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "BANGLADES", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "BUTAN", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "CAMBOYA", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "CHINA", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "COREA DEL NORTE", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "COREA DEL SUR", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "FILIPINAS", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "INDIA", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "INDONESIA", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "JAPON", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "BIRMANIA", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "BRUNEI", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "LAOS", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "MALDIVAS", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "MALASIA", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "MONGOLIA", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "NEPAL", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "PAKISTAN", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "RUSIA", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "SINGAPUR", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "SRI LANKA", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "TAYIKISTAN", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "TAILANDIA", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "TIMOR ORIENTAL", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "TURKMENISTAN", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "UZBEKISTAN", "categoria": "PAISES DE ASIA 🌏"},
+        {"nombre": "VIETNAM", "categoria": "PAISES DE ASIA 🌏"},
+
+        /* PAISES DE ORIENTE MEDIO 🌍 */
+        {"nombre": "ARABIA SAUDITA", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "CATAR", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "EMIRATOS ARABES", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "PALESTINA", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "IRAK", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "IRAN", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "ISRAEL", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "JORDANIA", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "KAZAJISTAN", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "KIRGUISTAN", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "KUWAIT", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "LIBANO", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "OMAN", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "SIRIA", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "TURQUIA", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+        {"nombre": "YEMEN", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
+
+        /* PAISES DE AMERICA 🌎 */
+        {"nombre": "ANTIGUA Y BARBUDA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "ARGENTINA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "BAHAMAS", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "BARBADOS", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "BELICE", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "BOLIVIA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "BRASIL", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "CANADA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "CHILE", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "COLOMBIA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "COSTA RICA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "CUBA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "DOMINICA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "ECUADOR", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "EL SALVADOR", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "ESTADOS UNIDOS", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "GRANADA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "GUATEMALA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "GUAYANA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "HAITI", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "HONDURAS", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "JAMAICA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "MEXICO", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "NICARAGUA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "PANAMA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "PUERTO RICO", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "PARAGUAY", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "PERU", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "REPUBLICA DOMINICANA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "SAN CRISTOBAL Y NIEVES", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "SAN VICENTE Y LAS GRANADINAS", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "SANTA LUCIA", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "SURINAM", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "TRINIDAD Y TOBAGO", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "URUGUAY", "categoria": "PAISES DE AMERICA 🌎"},
+        {"nombre": "VENEZUELA", "categoria": "PAISES DE AMERICA 🌎"},
+
+        /* COMIDAS 🍖 */
+        {"nombre": "PAELLA", "categoria": "COMIDAS 🍖"},
+        {"nombre": "AREPA", "categoria": "COMIDAS 🍖"},
+        {"nombre": "EMPANADA", "categoria": "COMIDAS 🍖"},
+        {"nombre": "PATATAS FRITAS", "categoria": "COMIDAS 🍖"},
+        {"nombre": "TACOS", "categoria": "COMIDAS 🍖"},
+        {"nombre": "ENSALADA", "categoria": "COMIDAS 🍖"},
+        {"nombre": "PIZZA", "categoria": "COMIDAS 🍖"},
+        {"nombre": "HAMBURGUESA", "categoria": "COMIDAS 🍖"},
+        {"nombre": "LASAÑA", "categoria": "COMIDAS 🍖"},
+        {"nombre": "SUSHI", "categoria": "COMIDAS 🍖"},
+        {"nombre": "SOPA", "categoria": "COMIDAS 🍖"},
+        {"nombre": "PANQUEQUE", "categoria": "COMIDAS 🍖"},
+        {"nombre": "TORTILLA", "categoria": "COMIDAS 🍖"},
+        {"nombre": "TORTILLA ESPAÑOLA", "categoria": "COMIDAS 🍖"},
+        {"nombre": "KEBAB", "categoria": "COMIDAS 🍖"},
+        {"nombre": "ESPAGUETI", "categoria": "COMIDAS 🍖"},
+        {"nombre": "RAMEN", "categoria": "COMIDAS 🍖"},
+        {"nombre": "LENTEJAS", "categoria": "COMIDAS 🍖"},
+        {"nombre": "PERRITO CALIENTE", "categoria": "COMIDAS 🍖"},
+        {"nombre": "ARROZ", "categoria": "COMIDAS 🍖"},
+        {"nombre": "MILANESA", "categoria": "COMIDAS 🍖"},
+
+        /* DEPORTES 🥇 */
+        {"nombre": "FUTBOL", "categoria": "DEPORTES 🥇"},
+        {"nombre": "BALONCESTO", "categoria": "DEPORTES 🥇"},
+        {"nombre": "TENIS", "categoria": "DEPORTES 🥇"},
+        {"nombre": "BEISBOL", "categoria": "DEPORTES 🥇"},
+        {"nombre": "VOLEIBOL", "categoria": "DEPORTES 🥇"},
+        {"nombre": "NATACION", "categoria": "DEPORTES 🥇"},
+        {"nombre": "ESGRIMA", "categoria": "DEPORTES 🥇"},
+        {"nombre": "EQUITACION", "categoria": "DEPORTES 🥇"},
+        {"nombre": "BOXEO", "categoria": "DEPORTES 🥇"},
+        {"nombre": "HOCKEY", "categoria": "DEPORTES 🥇"},
+        {"nombre": "FUTBOL AMERICANO", "categoria": "DEPORTES 🥇"},
+        {"nombre": "SURF", "categoria": "DEPORTES 🥇"},
+        {"nombre": "ESQUI", "categoria": "DEPORTES 🥇"},
+        {"nombre": "PARACAIDISMO", "categoria": "DEPORTES 🥇"},
+        {"nombre": "TENIS DE MESA", "categoria": "DEPORTES 🥇"},
+        {"nombre": "ATLETISMO", "categoria": "DEPORTES 🥇"},
+        {"nombre": "WATERPOLO", "categoria": "DEPORTES 🥇"},
+        {"nombre": "TIRO CON ARCO", "categoria": "DEPORTES 🥇"},
+        {"nombre": "BOLOS", "categoria": "DEPORTES 🥇"},
+        {"nombre": "RUGBY", "categoria": "DEPORTES 🥇"},
+        {"nombre": "GOLF", "categoria": "DEPORTES 🥇"},
+        {"nombre": "BADMINTON", "categoria": "DEPORTES 🥇"},
+        {"nombre": "CICLISMO", "categoria": "DEPORTES 🥇"},
+        {"nombre": "RALLY", "categoria": "DEPORTES 🥇"},
+        {"nombre": "MOTOCROSS", "categoria": "DEPORTES 🥇"},
+        {"nombre": "DARDOS", "categoria": "DEPORTES 🥇"},
+        {"nombre": "BILLAR", "categoria": "DEPORTES 🥇"},
+        {"nombre": "PETANCA", "categoria": "DEPORTES 🥇"},
+        {"nombre": "JUDO", "categoria": "DEPORTES 🥇"},
+        {"nombre": "KARATE", "categoria": "DEPORTES 🥇"},
+        {"nombre": "TAEKWONDO", "categoria": "DEPORTES 🥇"},
+        {"nombre": "SUMO", "categoria": "DEPORTES 🥇"},
+        {"nombre": "BALONMANO", "categoria": "DEPORTES 🥇"},
+
+        /* FRUTAS 🍇 */
+        {"nombre": "MANZANA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "PERA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "CEREZA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "FRESA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "ARANDANO", "categoria": "FRUTAS 🍇"},
+        {"nombre": "FRAMBUESA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "ZARZAMORA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "LIMON", "categoria": "FRUTAS 🍇"},
+        {"nombre": "MANDARINA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "NARANJA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "POMELO", "categoria": "FRUTAS 🍇"},
+        {"nombre": "MELON", "categoria": "FRUTAS 🍇"},
+        {"nombre": "SANDIA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "AGUACATE", "categoria": "FRUTAS 🍇"},
+        {"nombre": "COCO", "categoria": "FRUTAS 🍇"},
+        {"nombre": "KIWI", "categoria": "FRUTAS 🍇"},
+        {"nombre": "PIÑA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "PLATANO", "categoria": "FRUTAS 🍇"},
+        {"nombre": "MANGO", "categoria": "FRUTAS 🍇"},
+        {"nombre": "PAPAYA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "DATIL", "categoria": "FRUTAS 🍇"},
+        {"nombre": "CARAMBOLA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "CHIRIMOYA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "ALBARICOQUE", "categoria": "FRUTAS 🍇"},
+        {"nombre": "CIRUELA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "HIGO", "categoria": "FRUTAS 🍇"},
+        {"nombre": "KAKI", "categoria": "FRUTAS 🍇"},
+        {"nombre": "MELOCOTON", "categoria": "FRUTAS 🍇"},
+        {"nombre": "NECTARINA", "categoria": "FRUTAS 🍇"},
+        {"nombre": "NISPERO", "categoria": "FRUTAS 🍇"},
+        {"nombre": "UVA", "categoria": "FRUTAS 🍇"},
+        
+        /* FRUTOS SECOS 🥜 */
+        {"nombre": "NUEZ", "categoria": "FRUTOS SECOS 🥜"},
+        {"nombre": "ALMENDRA", "categoria": "FRUTOS SECOS 🥜"},
+        {"nombre": "AVELLANA", "categoria": "FRUTOS SECOS 🥜"},
+        {"nombre": "PISTACHO", "categoria": "FRUTOS SECOS 🥜"},
+        {"nombre": "CASTAÑA", "categoria": "FRUTOS SECOS 🥜"},
+        {"nombre": "PIÑON", "categoria": "FRUTOS SECOS 🥜"},
+        {"nombre": "ANACARDO", "categoria": "FRUTOS SECOS 🥜"},
+        {"nombre": "CACAHUETE", "categoria": "FRUTOS SECOS 🥜"},
+        {"nombre": "PIPAS DE GIRASOL", "categoria": "FRUTOS SECOS 🥜"},
+        {"nombre": "PIPAS DE CALABAZA", "categoria": "FRUTOS SECOS 🥜"},
+        {"nombre": "ALGARROBA", "categoria": "FRUTOS SECOS 🥜"},
+
+        /* VERDURAS 🥦 */
+        {"nombre": "PEPINO", "categoria": "VERDURAS 🥦"},
+        {"nombre": "ZANAHORIA", "categoria": "VERDURAS 🥦"},
+        {"nombre": "LECHUGA", "categoria": "VERDURAS 🥦"},
+        {"nombre": "TOMATE", "categoria": "VERDURAS 🥦"},
+        {"nombre": "CEBOLLA", "categoria": "VERDURAS 🥦"},
+        {"nombre": "PIMIENTO", "categoria": "VERDURAS 🥦"},
+        {"nombre": "BROCOLI", "categoria": "VERDURAS 🥦"},
+        {"nombre": "COLIFLOR", "categoria": "VERDURAS 🥦"},
+        {"nombre": "ESPINACA", "categoria": "VERDURAS 🥦"},
+        {"nombre": "CALABACIN", "categoria": "VERDURAS 🥦"},
+        {"nombre": "BERENJENA", "categoria": "VERDURAS 🥦"},
+        {"nombre": "APIO", "categoria": "VERDURAS 🥦"},
+        {"nombre": "ACELGA", "categoria": "VERDURAS 🥦"},
+        {"nombre": "PUERRO", "categoria": "VERDURAS 🥦"},
+        {"nombre": "RABANO", "categoria": "VERDURAS 🥦"},
+
+        /* ANIMALES 🐘 */
+        {"nombre": "ELEFANTE", "categoria": "ANIMALES 🐘"},
+        {"nombre": "LEON", "categoria": "ANIMALES 🐘"},
+        {"nombre": "TIGRE", "categoria": "ANIMALES 🐘"},
+        {"nombre": "JIRAFA", "categoria": "ANIMALES 🐘"},
+        {"nombre": "CANGURO", "categoria": "ANIMALES 🐘"},
+        {"nombre": "KOALA", "categoria": "ANIMALES 🐘"},
+        {"nombre": "OSO PANDA", "categoria": "ANIMALES 🐘"},
+        {"nombre": "RINOCERONTE", "categoria": "ANIMALES 🐘"},
+        {"nombre": "HIPOPOTAMO", "categoria": "ANIMALES 🐘"},
+        {"nombre": "CEBRA", "categoria": "ANIMALES 🐘"},
+        {"nombre": "GORILA", "categoria": "ANIMALES 🐘"},
+        {"nombre": "CHIMPANCE", "categoria": "ANIMALES 🐘"},
+        {"nombre": "LOBO", "categoria": "ANIMALES 🐘"},
+        {"nombre": "OSO POLAR", "categoria": "ANIMALES 🐘"},
+        {"nombre": "PINGÜINO", "categoria": "ANIMALES 🐘"},
+        {"nombre": "PERRO", "categoria": "ANIMALES 🐘"},
+        {"nombre": "GATO", "categoria": "ANIMALES 🐘"},
+        {"nombre": "PAJARO", "categoria": "ANIMALES 🐘"},
+        {"nombre": "RATA", "categoria": "ANIMALES 🐘"},
+        {"nombre": "ZORRO", "categoria": "ANIMALES 🐘"},
+    
     ]
-  }
+}
