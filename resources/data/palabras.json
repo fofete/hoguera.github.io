@@ -261,7 +261,7 @@
         {"nombre": "GATO", "categoria": "ANIMALES 🐘"},
         {"nombre": "PAJARO", "categoria": "ANIMALES 🐘"},
         {"nombre": "RATA", "categoria": "ANIMALES 🐘"},
-        {"nombre": "ZORRO", "categoria": "ANIMALES 🐘"},
+        {"nombre": "ZORRO", "categoria": "ANIMALES 🐘"}
     
     ]
 }
