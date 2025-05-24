@@ -10,7 +10,7 @@ body {
   width: 100%;
   height: 100vh;
   font-family: 'EB Garamond', serif;
-  background-image: url(../resources/img/fondos/fondo5.png);
+  background-image: url("https://fofete.github.io/hoguera.github.io/resources/img/fondos/fondo5.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
