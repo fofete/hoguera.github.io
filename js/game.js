@@ -5,7 +5,7 @@ let palabraSecretaCategoria;
 let palabras = [];
 
 //cargamos palabras desde JSON
-fetch('../resources/data/palabras.json')
+fetch('./resources/data/palabras.json')
   .then(response => {
     if (!response.ok) throw new Error("Error al cargar palabras");
     return response.json();
