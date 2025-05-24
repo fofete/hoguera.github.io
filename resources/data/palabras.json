@@ -1,6 +1,5 @@
 {
     "palabras": [
-        /* PAISES DE EUROPA 🌍 */
         {"nombre": "ESPAÑA", "categoria": "PAISES DE EUROPA 🌍"},
         {"nombre": "REPUBLICA CHECA", "categoria": "PAISES DE EUROPA 🌍"},
         {"nombre": "SAN MARINO", "categoria": "PAISES DE EUROPA 🌍"},
@@ -44,7 +43,6 @@
         {"nombre": "MONACO", "categoria": "PAISES DE EUROPA 🌍"},
         {"nombre": "CHIPRE", "categoria": "PAISES DE EUROPA 🌍"},
 
-        /* PAISES DE ASIA 🌏 */
         {"nombre": "AFGANISTAN", "categoria": "PAISES DE ASIA 🌏"},
         {"nombre": "BANGLADES", "categoria": "PAISES DE ASIA 🌏"},
         {"nombre": "BUTAN", "categoria": "PAISES DE ASIA 🌏"},
@@ -74,7 +72,6 @@
         {"nombre": "UZBEKISTAN", "categoria": "PAISES DE ASIA 🌏"},
         {"nombre": "VIETNAM", "categoria": "PAISES DE ASIA 🌏"},
 
-        /* PAISES DE ORIENTE MEDIO 🌍 */
         {"nombre": "ARABIA SAUDITA", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
         {"nombre": "CATAR", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
         {"nombre": "EMIRATOS ARABES", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
@@ -92,7 +89,6 @@
         {"nombre": "TURQUIA", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
         {"nombre": "YEMEN", "categoria": "PAISES DE ORIENTE MEDIO 🌍"},
 
-        /* PAISES DE AMERICA 🌎 */
         {"nombre": "ANTIGUA Y BARBUDA", "categoria": "PAISES DE AMERICA 🌎"},
         {"nombre": "ARGENTINA", "categoria": "PAISES DE AMERICA 🌎"},
         {"nombre": "BAHAMAS", "categoria": "PAISES DE AMERICA 🌎"},
@@ -130,7 +126,6 @@
         {"nombre": "URUGUAY", "categoria": "PAISES DE AMERICA 🌎"},
         {"nombre": "VENEZUELA", "categoria": "PAISES DE AMERICA 🌎"},
 
-        /* COMIDAS 🍖 */
         {"nombre": "PAELLA", "categoria": "COMIDAS 🍖"},
         {"nombre": "AREPA", "categoria": "COMIDAS 🍖"},
         {"nombre": "EMPANADA", "categoria": "COMIDAS 🍖"},
@@ -153,7 +148,6 @@
         {"nombre": "ARROZ", "categoria": "COMIDAS 🍖"},
         {"nombre": "MILANESA", "categoria": "COMIDAS 🍖"},
 
-        /* DEPORTES 🥇 */
         {"nombre": "FUTBOL", "categoria": "DEPORTES 🥇"},
         {"nombre": "BALONCESTO", "categoria": "DEPORTES 🥇"},
         {"nombre": "TENIS", "categoria": "DEPORTES 🥇"},
@@ -188,7 +182,6 @@
         {"nombre": "SUMO", "categoria": "DEPORTES 🥇"},
         {"nombre": "BALONMANO", "categoria": "DEPORTES 🥇"},
 
-        /* FRUTAS 🍇 */
         {"nombre": "MANZANA", "categoria": "FRUTAS 🍇"},
         {"nombre": "PERA", "categoria": "FRUTAS 🍇"},
         {"nombre": "CEREZA", "categoria": "FRUTAS 🍇"},
@@ -220,8 +213,7 @@
         {"nombre": "NECTARINA", "categoria": "FRUTAS 🍇"},
         {"nombre": "NISPERO", "categoria": "FRUTAS 🍇"},
         {"nombre": "UVA", "categoria": "FRUTAS 🍇"},
-        
-        /* FRUTOS SECOS 🥜 */
+
         {"nombre": "NUEZ", "categoria": "FRUTOS SECOS 🥜"},
         {"nombre": "ALMENDRA", "categoria": "FRUTOS SECOS 🥜"},
         {"nombre": "AVELLANA", "categoria": "FRUTOS SECOS 🥜"},
@@ -234,7 +226,6 @@
         {"nombre": "PIPAS DE CALABAZA", "categoria": "FRUTOS SECOS 🥜"},
         {"nombre": "ALGARROBA", "categoria": "FRUTOS SECOS 🥜"},
 
-        /* VERDURAS 🥦 */
         {"nombre": "PEPINO", "categoria": "VERDURAS 🥦"},
         {"nombre": "ZANAHORIA", "categoria": "VERDURAS 🥦"},
         {"nombre": "LECHUGA", "categoria": "VERDURAS 🥦"},
@@ -251,7 +242,6 @@
         {"nombre": "PUERRO", "categoria": "VERDURAS 🥦"},
         {"nombre": "RABANO", "categoria": "VERDURAS 🥦"},
 
-        /* ANIMALES 🐘 */
         {"nombre": "ELEFANTE", "categoria": "ANIMALES 🐘"},
         {"nombre": "LEON", "categoria": "ANIMALES 🐘"},
         {"nombre": "TIGRE", "categoria": "ANIMALES 🐘"},
