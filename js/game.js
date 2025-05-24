@@ -120,22 +120,22 @@ function cargarImagenHoguera() {
   const imagen = document.getElementById("imagen");
   switch (intentos) {
     case 4:
-      imagen.style.background = "url('resources/img/hogeras/mujer2.png')";
+      imagen.style.background = "url('../resources/img/hogeras/mujer2.png')";
       break;
     case 3:
-      imagen.style.background = "url('resources/img/hogeras/mujer3.png')";
+      imagen.style.background = "url('../resources/img/hogeras/mujer3.png')";
       break;
     case 2:
-      imagen.style.background = "url('resources/img/hogeras/mujer4.png')";
+      imagen.style.background = "url('../resources/img/hogeras/mujer4.png')";
       break;
     case 1:
-      imagen.style.background = "url('resources/img/hogeras/mujer5.png')";
+      imagen.style.background = "url('../resources/img/hogeras/mujer5.png')";
       break;
     case 0:
-      imagen.style.background = "url('resources/img/hogeras/mujer6.png')";
+      imagen.style.background = "url('../resources/img/hogeras/mujer6.png')";
       break;
     default:
-      imagen.style.background = "url('resources/img/hogeras/mujer1.png')";
+      imagen.style.background = "url('../resources/img/hogeras/mujer1.png')";
       break;
   }
 }
