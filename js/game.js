@@ -80,7 +80,7 @@ function comprobarLetraElegida(letra) {
 
     if (intentos === 0) {
       actualizarVidas();
-      abrirModal("Perdiste", 'Tu amada sucumbió a las llamas 🔥<br>...<br>La palabra secreta era: ${palabraSecreta}');
+      abrirModal("Perdiste 😟", 'Tu amada sucumbió a las llamas 🔥<br>...<br>La palabra secreta era: ${palabraSecreta}');
       return;
     }
   }
@@ -109,7 +109,7 @@ function verificarVictoria() {
   );
 
   if (victoria) {
-    abrirModal("¡Enhorabuena!", 'Has salvado a tu amada 💧');
+    abrirModal("¡Enhorabuena! 😌", 'Has salvado a tu amada 💧');
     intentos = 0;
     actualizarVidas();
   }
