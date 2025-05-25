@@ -143,7 +143,7 @@ function cargarImagenHoguera() {
 function actualizarVidas() {
   const elementoVidas = document.getElementById("vidas");
   if (elementoVidas) {
-    elementoVidas.innerHTML = "Vidas restantes: ${'❤️'.repeat(intentos)}";
+    elementoVidas.innerHTML = `Vidas restantes: ${'❤️'.repeat(intentos)}`;
   }
 }
 
